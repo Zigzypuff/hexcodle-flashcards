@@ -4,4 +4,5 @@ for the future:
 1. add an input to change the amount of colors available (currently default it's 4^3 per channel)
 2. change window size
 3. add score system or streak
-4. other cleanup things
+4. show color guessed, possibly with extra chance similar to how hexcodle works
+5. other cleanup things
